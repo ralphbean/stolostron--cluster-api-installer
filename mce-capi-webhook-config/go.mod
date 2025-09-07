@@ -4,7 +4,7 @@ go 1.23.6
 
 require (
 	github.com/onsi/ginkgo/v2 v2.25.1
-	github.com/onsi/gomega v1.37.0
+	github.com/onsi/gomega v1.38.2
 	github.com/spf13/pflag v1.0.7
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	k8s.io/api v0.31.3
@@ -19,7 +19,7 @@ require (
 
 require (
 	cel.dev/expr v0.24.0 // indirect
-	github.com/Masterminds/semver/v3 v3.3.1 // indirect
+	github.com/Masterminds/semver/v3 v3.4.0 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.1 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
