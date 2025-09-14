@@ -6,7 +6,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.38.0
 	github.com/spf13/pflag v1.0.7
-	gomodules.xyz/jsonpatch/v2 v2.5.0
+	gomodules.xyz/jsonpatch/v3 v3.0.1
 	k8s.io/api v0.31.3
 	k8s.io/apimachinery v0.31.3
 	k8s.io/client-go v0.31.3
@@ -90,6 +90,8 @@ require (
 	golang.org/x/text v0.27.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
 	golang.org/x/tools v0.35.0 // indirect
+	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
+	gomodules.xyz/orderedmap v0.1.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250811230008-5f3141c8851a // indirect
 	google.golang.org/grpc v1.73.0 // indirect
